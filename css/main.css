@@ -114,7 +114,7 @@ FOOTER
 /*************************************
 PAGE:
 **************************************/
-.mydiv {background: lightblue; width:250px; height: 250px;}
+.mydiv {background: lightgreen; width:250px; height: 250px;}
 
 .myimage {
     float:left;
@@ -124,7 +124,7 @@ PAGE:
     border-radius: 20px;
 }
 
-.dog-photo {
+.cat-photo {
     display: block;
     max-width: 250px;
     margin: 0 auto 30px;
